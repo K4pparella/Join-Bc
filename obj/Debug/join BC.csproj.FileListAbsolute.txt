@@ -1,0 +1,11 @@
+C:\Users\loren\source\repos\join BC\join BC\bin\Debug\join BC.dll
+C:\Users\loren\source\repos\join BC\join BC\bin\Debug\join BC.pdb
+C:\Users\loren\source\repos\join BC\join BC\bin\Debug\00CensusCore.dll
+C:\Users\loren\source\repos\join BC\join BC\bin\Debug\0Harmony.dll
+C:\Users\loren\source\repos\join BC\join BC\bin\Debug\Assembly-CSharp_publicized.dll
+C:\Users\loren\source\repos\join BC\join BC\bin\Debug\CensusAPI.dll
+C:\Users\loren\source\repos\join BC\join BC\obj\Debug\join BC.csprojAssemblyReference.cache
+C:\Users\loren\source\repos\join BC\join BC\obj\Debug\join BC.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\join BC\join BC\obj\Debug\join BC.csproj.CopyComplete
+C:\Users\loren\source\repos\join BC\join BC\obj\Debug\join BC.dll
+C:\Users\loren\source\repos\join BC\join BC\obj\Debug\join BC.pdb
